@@ -35,7 +35,7 @@ public class NetworkManagerUI : MonoBehaviour
         // Menjalankan fungsi StartClient dari NetworkManager NGO
         if (NetworkManager.Singleton.StartClient())
         {
-            UpdateUIStatus("Status: Connecting as CLIENT...");
+            UpdateUIStatus("Status: Connected as CLIENT");
         }
         else
         {
