@@ -13,6 +13,6 @@ AssetOrigin:
   serializedVersion: 1
   productId: 207815
   packageName: 'FishNet: Networking Evolved'
-  packageVersion: 4.7.2R
+  packageVersion: 4.7.3R
   assetPath: Assets/FishNet/Runtime/Editor/Configuring/BetaModeMenu.cs
-  uploadId: 901598
+  uploadId: 987062
